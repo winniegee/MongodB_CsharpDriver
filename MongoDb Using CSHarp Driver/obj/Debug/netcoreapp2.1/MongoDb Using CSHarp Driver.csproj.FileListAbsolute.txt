@@ -1,0 +1,22 @@
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\obj\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.csprojAssemblyReference.cache
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\obj\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.AssemblyInfoInputs.cache
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\obj\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.AssemblyInfo.cs
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\obj\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.csproj.CoreCompileInputs.cache
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\obj\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.RazorAssemblyInfo.cache
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\obj\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.RazorAssemblyInfo.cs
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\bin\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.deps.json
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\bin\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.runtimeconfig.json
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\bin\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.runtimeconfig.dev.json
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\bin\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.dll
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\bin\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.pdb
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\obj\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.RazorTargetAssemblyInfo.cache
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\obj\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.csproj.CopyComplete
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\obj\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.dll
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\obj\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.pdb
+C:\Users\Osezuaheo\source\repos\MongoDb Using CSHarp Driver\MongoDb Using CSHarp Driver\obj\Debug\netcoreapp2.1\MongoDb Using CSHarp Driver.genruntimeconfig.cache
